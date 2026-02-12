@@ -1,0 +1,388 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/hydra",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "hydra",
+    "name": "Hydra",
+    "aliases": [
+      {
+        "name": "Lernaean Hydra",
+        "language": "Greek",
+        "region": "Ancient Greece",
+        "meaning": "Hydra of Lerna"
+      },
+      {
+        "name": "Hydros",
+        "language": "Greek",
+        "meaning": "Water serpent"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Multi-headed Serpent",
+    "tags": [
+      "greek-mythology",
+      "serpent",
+      "multi-headed",
+      "regeneration",
+      "hercules",
+      "monster",
+      "poisonous"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "A multi-headed serpentine monster from Greek mythology. Famous as the Lernaean Hydra defeated by Hercules in his second labor. Known for regenerating two heads when one is cut off.",
+      "full": "The Hydra is a legendary multi-headed serpent from Greek mythology, most famously known as the Lernaean Hydra that Hercules faced as his second labor. Typically depicted with nine heads, the Hydra possessed the terrifying ability to regenerate two new heads whenever one was severed. Its breath and blood were poisonous, and one of its heads was immortal. Hercules defeated it by cauterizing the neck stumps after beheading to prevent regeneration, and burying the immortal head under a boulder. The Hydra has become a powerful symbol for problems that multiply when confronted, representing exponential difficulty and insurmountable challenges."
+    },
+    "etymology": {
+      "origin": "From Greek 'hydra' (ὕδρα), meaning 'water serpent', from 'hydor' (ὕδωρ) meaning 'water'.",
+      "meaning": "Water serpent",
+      "first_use": "Ancient Greek, pre-Classical period"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Serpent",
+      "subtype": "Multi-headed",
+      "variant": "Greek"
+    },
+    "related_phenomena": [
+      {
+        "id": "cerberus",
+        "name": "Cerberus",
+        "relationship": "sibling",
+        "description": "Three-headed dog, also offspring of Typhon and Echidna"
+      },
+      {
+        "id": "chimera",
+        "name": "Chimera",
+        "relationship": "sibling",
+        "description": "Hybrid monster, also offspring of Typhon and Echidna"
+      },
+      {
+        "id": "basilisk",
+        "name": "Basilisk",
+        "relationship": "related",
+        "description": "King of serpents with deadly powers"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "heads": {
+        "count": "9 (typically)",
+        "variations": "5 to 100+ heads in various sources",
+        "immortal_head": "One head was immortal and could not be killed"
+      },
+      "coloration": [
+        "green",
+        "dark scales",
+        "serpentine"
+      ],
+      "features": [
+        {
+          "feature": "Multiple heads",
+          "description": "Usually nine heads, each capable of independent attack",
+          "frequency": "always"
+        },
+        {
+          "feature": "Serpentine body",
+          "description": "Massive serpent or dragon-like body",
+          "frequency": "always"
+        },
+        {
+          "feature": "Regeneration",
+          "description": "Two heads grow back when one is severed",
+          "frequency": "always"
+        },
+        {
+          "feature": "Immortal head",
+          "description": "One head cannot be killed by any means",
+          "frequency": "always"
+        },
+        {
+          "feature": "Poisonous breath",
+          "description": "Breath that is toxic and deadly",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Massive serpentine body with multiple heads branching from the neck region"
+    },
+    "abilities": [
+      {
+        "ability": "Head regeneration",
+        "description": "When one head is cut off, two grow back in its place",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Poisonous breath",
+        "description": "Breath so poisonous it could kill from a distance",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Venomous blood",
+        "description": "Blood so toxic it remained deadly even after death",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Multiple attacks",
+        "description": "Each head could attack independently",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "hostile",
+      "habitat_preference": [
+        "swamps",
+        "marshes",
+        "Lake Lerna",
+        "underwater lairs"
+      ],
+      "diet": "Carnivorous, terrorized countryside",
+      "patterns": [
+        "Guardian of the underworld entrance at Lerna",
+        "Attacked travelers and livestock",
+        "Defended its lair fiercely"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Greek mythology, specifically associated with Lake Lerna in the Argolid",
+      "continents": ["Europe"],
+      "regions": [
+        "Ancient Greece",
+        "Peloponnese",
+        "Argolid region"
+      ]
+    },
+    "specific_location": {
+      "name": "Lake Lerna",
+      "description": "Swampy lake in Argolid where the Lernaean Hydra dwelt",
+      "coordinates": {
+        "latitude": 37.6,
+        "longitude": 22.75,
+        "precision": "approximate"
+      }
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "8th century BCE",
+        "circa": true,
+        "source": "Greek oral tradition and early texts"
+      },
+      "mythological_period": "Age of Heroes"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Greek mythology, part of the cycle of Hercules' Twelve Labors",
+      "earliest_accounts": "Mentioned in works by Hesiod and later Greek authors",
+      "folklore_connections": "Part of broader Greek monster mythology, connected to Typhon and Echidna's monstrous offspring"
+    },
+    "mythology": {
+      "parentage": {
+        "mother": "Echidna",
+        "father": "Typhon",
+        "siblings": ["Cerberus", "Chimera", "Orthrus", "Sphinx"]
+      },
+      "labors": {
+        "labor_number": 2,
+        "hero": "Hercules (Heracles)",
+        "assistant": "Iolaus",
+        "method": "Cauterization of neck stumps to prevent regeneration"
+      }
+    },
+    "timeline": [
+      {
+        "date": "8th century BCE",
+        "event": "Hesiod's Theogony",
+        "significance": "Early written account of the Hydra's lineage",
+        "source": "Theogony"
+      },
+      {
+        "date": "Mythological age",
+        "event": "Hercules' second labor",
+        "significance": "Defeat of the Lernaean Hydra",
+        "source": "Greek mythology"
+      },
+      {
+        "date": "Classical period",
+        "event": "Widespread artistic depictions",
+        "significance": "Featured on pottery, sculpture, and literature",
+        "source": "Archaeological evidence"
+      }
+    ],
+    "modern_era": "The Hydra remains one of the most recognizable Greek monsters. The term 'hydra' is used metaphorically for any problem that becomes worse when addressed. It appears in modern media, comics (Marvel's HYDRA organization), and is widely used in scientific naming."
+  },
+
+  "famous_myth": {
+    "title": "The Second Labor of Hercules",
+    "summary": "Hercules was tasked with slaying the Lernaean Hydra as his second labor. Each time he cut off one of its heads, two more grew back. With the help of his nephew Iolaus, Hercules cauterized each neck stump with a firebrand after decapitation, preventing regeneration. The immortal head he buried under a heavy boulder. Hercules then dipped his arrows in the Hydra's poisonous blood, making them forever deadly.",
+    "participants": [
+      "Hercules (Heracles)",
+      "Iolaus (nephew and charioteer)",
+      "Eurystheus (king who assigned the labor)"
+    ],
+    "outcome": "Victory for Hercules, though Eurystheus did not count the labor as valid since Hercules had help from Iolaus",
+    "legacy": "The poisoned arrows from Hydra's blood were used in subsequent labors and eventually caused Hercules' own death"
+  },
+
+  "symbolism": {
+    "primary_meanings": [
+      "Problems that multiply when confronted",
+      "Exponential difficulty",
+      "Insurmountable obstacles",
+      "Regeneration and resilience"
+    ],
+    "modern_usage": [
+      "\"Cutting off the hydra's heads\" - solving a multiplying problem",
+      "HYDRA organization in Marvel Comics - symbolizing persistent evil",
+      "Scientific nomenclature - genus Hydra (freshwater polyps)",
+      "Business and politics - problems that worsen when addressed"
+    ]
+  },
+
+  "evidence": {
+    "physical": [],
+    "historical": [
+      {
+        "type": "literary",
+        "description": "Ancient Greek texts by Hesiod, Apollodorus, and others",
+        "status": "documented",
+        "period": "8th century BCE onwards"
+      },
+      {
+        "type": "artistic",
+        "description": "Depictions on Greek pottery, sculpture, and coins",
+        "status": "documented",
+        "period": "Archaic and Classical Greece"
+      }
+    ]
+  },
+
+  "theories": {
+    "mythological": [
+      {
+        "name": "Monster offspring",
+        "description": "One of many monstrous children of Typhon and Echidna",
+        "evidence_cited": ["Hesiod's Theogony", "Greek mythological genealogies"]
+      }
+    ],
+    "symbolic": [
+      {
+        "name": "Multi-headed springs",
+        "description": "Represents the many springs feeding Lake Lerna",
+        "interpretation": "Natural phenomenon personified as monster"
+      },
+      {
+        "name": "Exponential problems",
+        "description": "Allegory for challenges that worsen when confronted improperly",
+        "interpretation": "Philosophical and practical lesson"
+      }
+    ],
+    "historical_basis": [
+      {
+        "name": "No cryptozoological claims",
+        "description": "Purely mythological - no historical sighting reports",
+        "evidence_cited": ["Absence of sighting accounts", "Clearly mythological context"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Greek mythological cycle",
+        "Hercules' Twelve Labors",
+        "Monster genealogies"
+      ],
+      "beliefs": "Central figure in Greek heroic mythology"
+    },
+    "popular_culture": {
+      "literature": [
+        "Greek mythology collections",
+        "Classical texts (Apollodorus, Ovid)",
+        "Modern fantasy literature"
+      ],
+      "film_tv": [
+        "Hercules (1997 Disney film)",
+        "Clash of the Titans series",
+        "Percy Jackson series",
+        "Agents of S.H.I.E.L.D. (HYDRA organization)"
+      ],
+      "comics": [
+        "Marvel Comics - HYDRA organization",
+        "Various superhero comics"
+      ],
+      "games": [
+        "God of War series",
+        "Age of Mythology",
+        "Dungeons & Dragons",
+        "Final Fantasy series"
+      ]
+    }
+  },
+
+  "research": {
+    "scholars": [
+      {
+        "name": "Ancient mythographers",
+        "contribution": "Preserved and transmitted Hydra myths",
+        "period": "Classical antiquity"
+      }
+    ],
+    "classification": "Mythological creature - no modern cryptozoological research"
+  },
+
+  "sources": [
+    {
+      "id": "hesiod-theogony",
+      "type": "ancient_text",
+      "title": "Theogony",
+      "authors": ["Hesiod"],
+      "date": "~8th century BCE"
+    },
+    {
+      "id": "apollodorus-library",
+      "type": "ancient_text",
+      "title": "Bibliotheca",
+      "authors": ["Apollodorus"],
+      "date": "~2nd century CE"
+    },
+    {
+      "id": "hard-2004",
+      "type": "book",
+      "title": "The Routledge Handbook of Greek Mythology",
+      "authors": ["Robin Hard"],
+      "publication": "Routledge",
+      "date": "2004"
+    }
+  ]
+}
