@@ -1,282 +1,185 @@
-# Hydra
+# Lernaean Hydra
 
-> *"Cut off one head, two more shall take its place."*
+> The Lernaean Hydra is a many-headed serpentine drakōn of Greek mythology, offspring of Typhon and Echidna, slain by Heracles as his second labor; its defining trait is the regrowth of two heads for each one severed.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-mythological-purple)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `hydra` |
 | **Category** | MYTHOLOGICAL_CREATURE |
-| **Classification** | Multi-headed Serpent |
-| **First Recorded** | 8th century BCE (Greek oral tradition) |
-| **Primary Region** | Ancient Greece (Lake Lerna) |
-| **Status** | Mythological |
+| **Subcategory** | Multi-headed serpentine drakōn / chthonic monster |
+| **First recorded** | Pre-contact |
+| **Primary range** | Mythological habitat is the marsh of Lerna, in the Argolid region of the Peloponnese, southern Greece, near a reputed entrance to the Underworld |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Hydra is a legendary multi-headed serpentine monster from Greek mythology, most famously known as the **Lernaean Hydra** that Hercules faced as his second labor.
-
-Typically depicted with nine heads (though some sources describe anywhere from five to over one hundred), the Hydra possessed the terrifying ability to **regenerate two new heads** whenever one was severed. Its breath and blood were poisonous, and one of its heads was immortal and could not be killed by any means.
-
-Hercules defeated the Hydra by cauterizing the neck stumps with fire after each decapitation to prevent regeneration, and burying the immortal head under a massive boulder. The creature has become a powerful symbol for **problems that multiply when confronted**, representing exponential difficulty and challenges that worsen when addressed improperly.
+The Lernaean Hydra (Greek Λερναῖα Ὕδρα) is a chthonic, multi-headed serpent-monster of Greek mythology that lurked in the springs of Lerna in the Argolid, near a reputed entrance to the Underworld. Hesiod's Theogony names her parents as Typhon and Echidna and her siblings as Cerberus, Orthrus, and the Chimera. Sources differ on the number of heads — six on early bronze fibulae (c. 700 BCE), nine in Alcaeus, fifty in Simonides, and indeterminate in Euripides and Virgil — but the regenerating-head motif, first attested in Euripides, became canonical: each severed head sprouted two more (or three, in Servius). Heracles, sent against the Hydra by King Eurystheus as his second labor, ultimately defeated her with the help of his nephew Iolaus, who cauterized each neck stump with a firebrand to prevent regrowth. The single immortal head was severed and buried under a great rock between Lerna and Elaius. Heracles dipped his arrows in the Hydra's venomous blood, providing him a deadly resource for later labors and ultimately the means of his own death through the Tunic of Nessus. The Hydra became proverbial in Greek and remains a stock image for problems that multiply when attacked.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Λερναῖα Ὕδρα (Lernaía Hýdra) | Ancient Greek | Hydra of Lerna |
+| Hydra Lernaea | Latin |  |
+| Hydra of Lerna | English |  |
 
-### Primary Name
-- **Hydra** — From Greek 'hydra' (ὕδρα), meaning "water serpent", from 'hydor' (ὕδωρ) meaning "water".
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Lernaean Hydra | Greek | "Hydra of Lerna" (most famous) |
-| Hydros | Greek | Water serpent |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: MYTHOLOGICAL_CREATURE
-├── Type: Serpent
-├── Subtype: Multi-headed
-└── Variant: Greek
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Cerberus](/cerberus) | Sibling | Three-headed dog, also offspring of Typhon and Echidna |
-| [Chimera](/chimera) | Sibling | Hybrid monster, also offspring of Typhon and Echidna |
-| [Basilisk](/basilisk) | Related | King of serpents with deadly powers |
+- **Origin**: Greek ὕδρα (húdra), 'water-snake', cognate with English 'otter' via the Indo-European root *wódr̥ ('water'). The name binds the creature to its watery lair at Lerna.
+- **Meaning**: 'Water-snake of Lerna'; in classical usage 'Hydra' specifically denotes the Lernaean monster slain by Heracles.
+- **First use**: Hesiod's Theogony (c. 700 BCE) is the earliest extant narrative reference; the figure appears on Boeotian bronze fibulae of the same era.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Ladon](../ladon/) — _similar_: Hundred-headed dragon guarding the apples of the Hesperides
+- [Chimera](../chimera/) — _similar_: Sibling of the Hydra, also offspring of Typhon and Echidna
+- [Cerberus](../cerberus/) — _similar_: Three-headed sibling of the Hydra guarding the underworld
+- [Python](../python/) — _similar_: Chthonic serpent of Delphi slain by Apollo
+- [Yamata no Orochi](../yamata-no-orochi/) — _similar_: Eight-headed Japanese dragon slain by Susanoo
+- [Typhon](../typhon/) — _related_: Father of the Hydra in Hesiod's Theogony
+- [Echidna](../echidna/) — _related_: Mother of the Hydra in Hesiod's Theogony
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description |
-|-----------|-------------|
-| **Heads** | 9 (typically), ranging 5-100+ in various sources |
-| **Immortal Head** | One head was immortal and indestructible |
-| **Coloration** | Green, dark scales |
-| **Build** | Massive serpentine body |
+- **Morphology**: A polycephalous serpent-monster (drakōn) of chthonic class. Iconography from Boeotian fibulae (c. 700 BCE) and Caeretan black-figure hydriai (6th c. BCE) onward shows multiple sinuous necks rising from a single coiled body.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Multiple heads | Usually nine heads, each capable of independent attack | Always |
-| Serpentine body | Massive serpent or dragon-like body | Always |
-| Regeneration | Two heads grow back when one is severed | Always |
-| Immortal head | One head cannot be killed by any means | Always |
-| Poisonous breath | Breath that is toxic and deadly | Common |
+|---|---|---|
+| Multiple heads | Variously six (Boeotian bronze fibulae, c. 700 BCE), nine (Alcaeus, c. 600 BCE), fifty (Simonides), or indeterminate (Euripides, Virgil); nine became the canonical Renaissance figure | always |
+| Regenerating heads | Each severed head regrows as two (or three, per Servius); first attested in Euripides | always |
+| Single immortal head | One head cannot be killed by any weapon and was finally buried under a great rock by Heracles | always |
+| Venomous breath and blood | Even the scent of its breath was reputedly fatal; its blood served as the poison for Heracles's arrows | always |
+| Serpentine body | Long-bodied water-serpent form, sometimes shown with a double tail in archaic vase painting | always |
 
-### Powers & Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Head regeneration | When one head is cut off, two grow back in its place | Mythological |
-| Poisonous breath | Breath so poisonous it could kill from a distance | Mythological |
-| Venomous blood | Blood so toxic it remained deadly even after death | Mythological |
-| Multiple attacks | Each head could attack independently | Mythological |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Regeneration of severed heads | Two new heads grow in place of each one cut off; canonical motif from Euripides onward | always | folklore |
+| Lethal venom | Breath, scent, and blood are poisonous; remains so after death and provides Heracles's later arrow-toxin | always | folklore |
+| Aquatic ambush | Attacks from the spring of Amymone and the surrounding marshes of Lerna | common | folklore |
 
----
+## Behavior
 
-## Mythology
-
-### Parentage
-
-- **Father:** Typhon (monstrous giant)
-- **Mother:** Echidna (half-woman, half-serpent)
-- **Siblings:** Cerberus, Chimera, Orthrus, Sphinx, and other Greek monsters
-
-### The Second Labor of Hercules
-
-**The most famous Hydra myth:**
-
-Hercules was tasked with slaying the Lernaean Hydra as his **second of twelve labors**. The beast dwelt in the swamps of Lake Lerna in the Argolid.
-
-**The Problem:** Each time Hercules cut off one of its heads, **two more grew back** in its place.
-
-**The Solution:** With the help of his nephew **Iolaus**, Hercules developed a strategy:
-1. Hercules would decapitate a head
-2. Iolaus would immediately cauterize the neck stump with a firebrand
-3. The cauterization prevented regeneration
-
-**The Immortal Head:** One head could not be killed. Hercules buried it under a heavy boulder, trapping it forever.
-
-**Legacy:** Hercules dipped his arrows in the Hydra's poisonous blood, making them forever deadly. These poisoned arrows were used in subsequent labors and eventually caused Hercules' own death.
-
-**Controversy:** King Eurystheus did not count this labor as valid since Hercules had help from Iolaus.
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: the Lernaean swamp, the spring of Amymone, lake margins, chthonic entrances to the Underworld
+- **Diet**: Cattle and human victims of the Argolid (in classical sources); functions in narrative as a chthonic guardian rather than a feeder
 
 ---
+## Distribution
 
-## Geographic Location
+Mythological habitat is the marsh of Lerna, in the Argolid region of the Peloponnese, southern Greece, near a reputed entrance to the Underworld.
 
-### Lake Lerna
+### Hotspots
 
-The Hydra's lair was located at **Lake Lerna** in the Argolid region of the Peloponnese, Greece.
-
-**Location:** Approximately 37.6°N, 22.75°E (modern Greece)
-
-The swampy lake was believed to be an entrance to the underworld, guarded by the monstrous Hydra.
-
----
-
-## Symbolism
-
-### Primary Meanings
-
-1. **Problems that multiply when confronted** — The defining characteristic
-2. **Exponential difficulty** — Challenges that worsen with each attempt
-3. **Insurmountable obstacles** — Requiring creative solutions
-4. **Regeneration and resilience** — Ability to recover from damage
-
-### Modern Usage
-
-- **"Cutting off the hydra's heads"** — Attempting to solve a multiplying problem
-- **HYDRA organization** (Marvel Comics) — Symbol of persistent, regenerating evil ("Cut off one head, two more shall take its place")
-- **Scientific nomenclature** — Genus *Hydra* (freshwater polyps that can regenerate)
-- **Business/Politics** — Describing problems that worsen when addressed incorrectly
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Lake Lerna | Argolid, Greece |  | Mythological; archaic to Classical Greek references |
 
 ---
-
 ## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| 8th century BCE | Hesiod's *Theogony* | Early written account of the Hydra's lineage |
-| Mythological age | Hercules' second labor | Defeat of the Lernaean Hydra |
-| Classical period | Widespread artistic depictions | Featured on pottery, sculpture, and literature |
-| Modern era | Symbolic usage | "Hydra" as metaphor for multiplying problems |
-
----
+|---|---|---|
+| Pre-contact | Boeotian bronze fibulae depict a hero attacking a six-headed water-serpent, c. 700 BCE | Earliest visual attestation of the Hydra tradition |
+| Pre-contact | Hesiod's Theogony (c. 700 BCE) names the Hydra as offspring of Typhon and Echidna and sister of Cerberus and the Chimera | Earliest extant narrative attestation |
+| Pre-contact | Alcaeus of Mytilene (c. 600 BCE) gives the Hydra nine heads | Earliest specific head-count assignment in the canonical lineage |
+| Pre-contact | Euripides (5th c. BCE) attests the regenerating-heads motif | First extant source for the iconic head-regrowth feature |
+| Pre-contact | Plato uses the Hydra as a logical metaphor in the Euthydemus (4th c. BCE) | Early proverbial use of the Hydra for proliferating problems |
+| Pre-contact | Pseudo-Apollodorus's Bibliotheca (1st–2nd c. CE) gives the canonical Heracles-and-Iolaus account, including the immortal head buried under a rock | Standard mythographic source for the second labor of Heracles |
+| Pre-contact | Pausanias's Description of Greece (2nd c. CE) locates the Hydra at the spring of Amymone | Geographic anchoring of the myth in the Argolid |
+| Pre-contact | Servius (4th–5th c. CE) reports the variant of three heads regrowing per severance | Late antique elaboration of the regeneration motif |
+| 1985-01-01 | Walter Burkert's Greek Religion published in English by Harvard University Press | Standard modern reference framing the Hydra within Greek chthonic mythology |
+| 2013-01-01 | Daniel Ogden publishes Drakōn: Dragon Myth and Serpent Cult in the Greek and Roman Worlds (Oxford) | Definitive modern study of Greek and Roman dragon-myth, including the Hydra |
 
 ## Evidence
 
-### Historical Sources
+### Documentary
 
-| Type | Description | Period |
-|------|-------------|--------|
-| Literary | Ancient Greek texts by Hesiod, Apollodorus, and others | 8th century BCE onwards |
-| Artistic | Depictions on Greek pottery, sculpture, and coins | Archaic and Classical Greece |
-
-**Note:** The Hydra is purely mythological with no cryptozoological claims or sighting reports.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Hesiod, Theogony | c. 700 BCE | Earliest extant Greek narrative naming the Hydra as offspring of Typhon and Echidna. | verified |
+| Pseudo-Apollodorus, Bibliotheca | 1st–2nd c. CE | Standard mythographic narrative of Heracles's second labor, including Iolaus's cauterizing of the neck stumps and the immortal head buried under a rock. | verified |
+| Pausanias, Description of Greece | 2nd c. CE | Topographical guide identifying the spring of Amymone at Lerna as the Hydra's lair. | verified |
+| Boeotian bronze fibulae | c. 700 BCE | Bronze fibulae from Boeotia depicting a hero attacking a six-headed water-serpent. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Mythological Interpretation
+### Scientific
 
-1. **Monster Offspring**
-   Part of the lineage of Typhon and Echidna, representing primordial chaos and danger.
+**Naturalistic rationalization** _(Heraclitus the Paradoxographer)_
 
-### Symbolic Interpretation
+The 4th-century-BCE rationalist Heraclitus the Paradoxographer explained the Hydra as a single-headed snake accompanied by its offspring, which appeared multi-headed at a distance.
 
-1. **Multi-headed Springs**
-   The Hydra may represent the many springs feeding Lake Lerna. Blocking one spring would cause others to appear.
+**Geomythological reading** _(Luigi Piccardi)_
 
-2. **Exponential Problems**
-   Allegory for challenges that worsen when confronted improperly, teaching the need for creative solutions.
+Some modern researchers (e.g. Luigi Piccardi 2005) have proposed that the Hydra myth encodes a memory of dangerous gas-emitting karst springs at Lerna, whose multiple vents and geothermal activity could anchor the polycephalous water-monster image.
 
-### Historical Basis
+**Comparative mythology** _(Walter Burkert, Daniel Ogden, Carl Kerenyi)_
 
-**No cryptozoological claims** — Purely mythological with no historical sighting reports. The Hydra exists within the context of Greek heroic mythology.
+Modern scholarship situates the Hydra alongside Indo-European chaos-serpents (Vṛtra, Python, Ladon) slain by a hero-god, treating the regeneration motif as a literary intensification of the theme of difficulty.
 
----
+### Skeptical
+
+**Purely literary monster** _(Mainstream classical scholarship)_
+
+Mainstream classics treats the Hydra as a literary and religious figure of the Greek imagination with no historical referent; the 'evidence' is the Hesiodic and Hellenistic-Roman textual and iconographic record.
+
 
 ## Popular Culture
 
-### Literature
-- Greek mythology collections
-- Classical texts (Apollodorus, Ovid)
-- Modern fantasy literature
+**Literature**: Hesiod, Theogony (c. 700 BCE); Apollodorus, Bibliotheca (1st–2nd c. CE); Ovid, Metamorphoses (1–8 CE); Pausanias, Description of Greece (2nd c. CE); Hyginus, Fabulae (1st–2nd c. CE); Carl Kerenyi, The Heroes of the Greeks (1959); Walter Burkert, Greek Religion (1985); Daniel Ogden, Drakōn (2013); Rick Riordan's Percy Jackson series
 
-### Film & TV
-- *Hercules* (1997 Disney film)
-- *Clash of the Titans* series
-- *Percy Jackson* series
-- *Agents of S.H.I.E.L.D.* (HYDRA organization)
+**Film / TV**: Jason and the Argonauts (1963) features a many-headed Hydra (Ray Harryhausen stop-motion); Disney's Hercules (1997); Hercules: The Legendary Journeys; Clash of the Titans franchise; Marvel Cinematic Universe HYDRA organization (named for the regenerating-head motif)
 
-### Comics
-- **Marvel Comics** — HYDRA organization (persistent villainous network)
-- Various superhero comics featuring Hydra monsters
+**Games**: Dungeons & Dragons (hydra as a stock monster from 1974 onward); God of War series (Hydra as boss); Final Fantasy series (Hydra as enemy); Magic: The Gathering (multiple Hydra creature cards)
 
-### Games
-- *God of War* series
-- *Age of Mythology*
-- *Dungeons & Dragons*
-- *Final Fantasy* series
+**Other**: Constellation Hydra; Genus Hydra (freshwater cnidarians, named by Linnaeus 1758 for regenerative ability); Idiom 'hydra-headed' for proliferating problems; U.S. Navy SEAL Team and SHIELD popular-culture references
 
 ---
+## Research
 
-## API Reference
+### Researchers
 
-Machine-readable data is available in [`api.json`](api.json).
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Walter Burkert | University of Zürich (classics, religion) | Standard modern reference Greek Religion (1977/1985), placing the Hydra within Greek chthonic mythology | 1960s–2015 |
+| Daniel Ogden | University of Exeter (classics) | Drakōn: Dragon Myth and Serpent Cult in the Greek and Roman Worlds (2013), the definitive modern monograph | 1990s–present |
+| Carl Kerenyi | Comparative mythology, Hungarian Academy of Sciences | The Heroes of the Greeks (1959) including extensive Heracles-cycle commentary | 1940s–1970s |
+| Luigi Piccardi | CNR Italy (geology) | Geomythological hypothesis for the Hydra of Lerna (2005) | 2000s |
 
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const hydra = await wyrd.getPhenomenon('hydra');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/hydra/main/api.json
-```
+Active areas include comparative Indo-European serpent-slaying mythology, geomythological re-reading of Argolid hydrology, and the reception of the Hydra figure in modern fantasy and political rhetoric.
 
 ---
+## Sources
 
-## Sources & References
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-See [SOURCES.md](SOURCES.md) for complete bibliography.
 
-### Primary Sources
+## How to Report a Sighting
 
-- Hesiod. *Theogony* (~8th century BCE)
-- Apollodorus. *Bibliotheca* (~2nd century CE)
-- Hard, Robin (2004). *The Routledge Handbook of Greek Mythology*. Routledge.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Historical Source](../../issues/new?template=source_addition.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
